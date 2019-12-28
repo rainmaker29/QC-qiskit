@@ -1,9 +1,9 @@
 # QC-qiskit
 Implementing qiskit to understand Quantum Computing algorithms
 
-### Quantum Computers are hypothetical devices for now. Significant advances have been made in this field yet many innovations lie ahead
+ Quantum Computers are hypothetical devices for now. Significant advances have been made in this field yet many innovations lie ahead
 
-### This notebook gives an insight on how to advance in Quantum Computing practically.
+ This notebook gives an insight on how to advance in Quantum Computing practically.
 
 Pre-requisites : 
 <ol>
